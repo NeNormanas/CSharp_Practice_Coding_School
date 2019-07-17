@@ -7,14 +7,7 @@ namespace Game_Classes.Game
         static void Main(string[] args)
         {
 
-            //Person person = new Person("Someone", DateTime.Now);
-            //person.ShowtYourName();
-
-            //Student student = new Student("Normanas", DateTime.Now, "Antras");
-
-
-
-
+            
 
 
             GameScreen myGame = new GameScreen(60, 30);

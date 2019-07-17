@@ -7,6 +7,7 @@ namespace EncapsulationAndInheritance.AdditionalTask
     sealed class Human // sealed neleis paveldeti sitos klases
     {
         private int age;
+        //ff
 
 
         public Human(int age)

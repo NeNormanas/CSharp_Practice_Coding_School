@@ -14,6 +14,7 @@ namespace EncapsulationAndInheritance.AdditionalTask
             this.age = age;
 
         }
+        
 
         public void Talk()
         {

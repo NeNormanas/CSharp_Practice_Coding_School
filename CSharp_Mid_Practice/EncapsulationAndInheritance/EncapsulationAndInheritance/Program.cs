@@ -8,7 +8,7 @@ namespace EncapsulationAndInheritance.Data
     {
         static void Main(string[] args)
         {
-
+            
             var namas = new Namas(7);
             var duruSkaicius = namas.duruSkaicius;
 

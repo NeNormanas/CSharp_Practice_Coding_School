@@ -25,6 +25,7 @@ namespace LessonEight
             int skacius = First.Pass(First.Age); // kvieciu funkcija is klases Player kuri nieko nepriima ir nieko negrazina
             Console.WriteLine(skacius);
 
+            
 
 
         }

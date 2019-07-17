@@ -10,6 +10,7 @@ namespace Lesson1
     {
         static void Main(string[] args)
         {
+            // kazkas 
 
             //string vardas = "Normanas";
             //string pavarde = "Necionis";

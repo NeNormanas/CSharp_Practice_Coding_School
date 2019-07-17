@@ -19,5 +19,6 @@ namespace EncapsulationAndInheritance.AdditionalTask
         {
             Console.WriteLine("Object is moving");
         }
+        ff
     }
 }

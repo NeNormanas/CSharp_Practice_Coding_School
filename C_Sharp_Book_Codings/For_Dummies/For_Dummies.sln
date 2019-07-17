@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For_Dummies", "For_Dummies\For_Dummies.csproj", "{24394B98-16CB-4D6E-841C-0FD2CB31F50E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis_1", "Uzduotis_1\Uzduotis_1.csproj", "{022CE0EE-65A3-43F2-8E70-08618898A93C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24394B98-16CB-4D6E-841C-0FD2CB31F50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24394B98-16CB-4D6E-841C-0FD2CB31F50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24394B98-16CB-4D6E-841C-0FD2CB31F50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24394B98-16CB-4D6E-841C-0FD2CB31F50E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{022CE0EE-65A3-43F2-8E70-08618898A93C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022CE0EE-65A3-43F2-8E70-08618898A93C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022CE0EE-65A3-43F2-8E70-08618898A93C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022CE0EE-65A3-43F2-8E70-08618898A93C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60F2A2BF-33FE-456A-9028-C84CE51A996C}
+	EndGlobalSection
+EndGlobal
